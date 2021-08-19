@@ -1,0 +1,23 @@
+.lightgrey {
+    background-color: #EFE7DA;
+}
+
+
+.box {
+    min-height: 400px;
+    padding: 5px;
+    margin: 5px;
+    background-color: #fff;
+
+  }
+
+  .container{
+      margin-top: 100;
+  }
+
+  @media (max-width:900px) {
+      .navbar-expand-lg {background-color: #f96200;}
+      .navbar-collapse{background-color: #fff;}
+        body {background-color: white;}
+
+  }
