@@ -24,13 +24,7 @@ border-radius: 25px;
 }
 
 
-.center {
-   
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
-    height:400px;
-  }
+
 
   /* width:500px;height:400px; */
 
@@ -41,7 +35,10 @@ border-radius: 25px;
 
 
 
-  /* style="max-width: 20rem */
+.imgresize {
+    max-width:100%;
+    height:auto;
+}
  
 
   @media (max-width:900px) {
