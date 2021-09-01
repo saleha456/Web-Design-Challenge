@@ -8,7 +8,9 @@ The website was built using HTML, CSS, and Bootstrap (for navbar). It includes a
 
 Full Screen:
 
-![](WebVisualizations\Images\fullscreen.png)
+<img src="WebVisualizations\Images\fullscreen.png" alt=" width=&quot;200&quot;" style="zoom:75%;" />
+
+
 
 
 
