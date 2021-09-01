@@ -55,11 +55,3 @@ border-radius: 25px;
 
  
 
-  @media (max-width:900px) {
-      .navbar-expand-lg {background-color: #f96200;}
-      .navbar-collapse{background-color: #fff;
-                        color: blue;
-        }
-        body {background-color: white;}
-
-  }
